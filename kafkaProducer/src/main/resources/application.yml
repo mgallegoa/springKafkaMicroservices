@@ -1,0 +1,4 @@
+spring:
+  kafka:
+    bootstrapServer: kafka:9092
+    topicName: manuel-topic
